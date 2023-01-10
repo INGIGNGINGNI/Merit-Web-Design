@@ -5,14 +5,12 @@
         aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
     </button>
-    <div class="collapse navbar-collapse justify-content-center" id="navbarNav">
+    <div class="collapse navbar-collapse justify-content-between" id="navbarNav">
         <ul class="navbar-nav">
             <li class="nav-item" style="padding-right: 30px;"><a href="" class="nav-link"><i class="fi fi-rr-home"></i>หน้าแรก</a></li>
             <li class="nav-item" style="padding-right: 30px;"><a href="" class="nav-link"><i class="fi fi-rr-info"></i>เกี่ยวกับ</a></li>
             <li class="nav-item"><a href="" class="nav-link"><i class="fi fi-rr-document"></i>รูปแบบงานบริการ</a></li>
         </ul>
-    </div>
-    <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
         <div class="col-lg-auto col-md-4 col-sm-12 col-12 d-flex justify-content-end align-items-center">
             <div class="languages">
                 <a class="l-active" href="">TH</a> | <a href="">EN</a>
