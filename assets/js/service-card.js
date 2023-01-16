@@ -8,7 +8,7 @@ var swiper = new Swiper(".slide-content", {
   grabCursor: "true",
   speed: 1000,
   autoplay: {
-    delay: 3000,
+    delay: 4500,
     disableOnInteraction: false,
   },
   pagination: {
@@ -30,12 +30,17 @@ var swiper = new Swiper(".slide-content", {
       slidesPerView: 2,
       slidesPerGroup: 2,
     },
+    768: {
+      slidesPerView: 2,
+      slidesPerGroup: 2,
+      spaceBetween: 30,
+    },
     950: {
       slidesPerView: 3,
       spaceBetween: 30,
     },
     1200: {
-      spaceBetween: 100,
+      spaceBetween: 120,
     },
   },
 });

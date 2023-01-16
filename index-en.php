@@ -11,7 +11,7 @@
 </head>
 
 <body>
-    <?php include "components/navbar.php"; ?>
+    <?php include "components/navbar-en.php"; ?>
 
     <!-- Banner slide -->
     <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
@@ -25,10 +25,9 @@
                 <div class="row">
                     <div class="col-lg-6 col-md-6 col-sm-12 col-12 p-0">
                         <div class="banner-box">
-                            <div class="banner-title">ที่ปรึกษากฎหมายเมริท</div>
-                            <div class="banner-sub">ด้วยประสบการณ์ที่ยาวนาน ทำให้ได้รับความเชื่อถือและไว้วางใจในงานบริการต่าง ๆ
-                                เป็นอย่างดี</div>
-                            <a href="" class="btn btn-primary banner-btn">ดูข้อมูล
+                            <div class="banner-title">Merit Law & Counsellor</div>
+                            <div class="banner-sub">with long experience resulting in being trusted in various services as well</div>
+                            <a href="" class="btn btn-primary banner-btn">View more
                                 <i style="padding-left: 10px; padding-right: 0;"
                                     class="fi fi-rr-arrow-small-right"></i></a>
                         </div>
@@ -42,9 +41,9 @@
                 <div class="row">
                     <div class="col-lg-6 col-md-6 col-sm-12 col-12 p-0">
                         <div class="banner-box">
-                            <div class="banner-title">Merit Law & Counsellor</div>
+                            <div class="banner-title">Welcome to my site</div>
                             <div class="banner-sub">with long experience resulting in being trusted in various services as well</div>
-                            <a href="" class="btn btn-primary banner-btn">ดูข้อมูล
+                            <a href="" class="btn btn-primary banner-btn">View more
                                 <i style="padding-left: 10px; padding-right: 0;"
                                     class="fi fi-rr-arrow-small-right"></i></a>
                         </div>
@@ -59,15 +58,14 @@
                     <div class="col-lg-6 col-md-6 col-sm-12 col-12 p-0">
                         <div class="banner-box">
                             <div class="banner-title">Hello World</div>
-                            <div class="banner-sub">ด้วยประสบการณ์ที่ยาวนาน ทำให้ได้รับความเชื่อถือและไว้วางใจในงานบริการต่าง ๆ
-                                เป็นอย่างดี</div>
-                            <a href="" class="btn btn-primary banner-btn">ดูข้อมูล
+                            <div class="banner-sub">with long experience resulting in being trusted in various services as well</div>
+                            <a href="" class="btn btn-primary banner-btn">View more
                                 <i style="padding-left: 10px; padding-right: 0;"
                                     class="fi fi-rr-arrow-small-right"></i></a>
                         </div>
                     </div>
                     <div class="col-lg-6 col-md-6 col-sm-12 col-12 p-0">
-                        <img src="assets/images/banner-3.jpg" alt="Third banner" class="d-block w-100">
+                        <img src="assets/images/banner-3.jpg" alt="Third banner" class="d-block w-100" >
                     </div>
                 </div>
             </div>
@@ -84,7 +82,7 @@
         </div>
     </div>
 
-    <div class="service">รูปแบบงานบริการ</div>
+    <div class="service">Services</div>
     <div class="square"></div>
 
     <!-- Service cards -->
@@ -100,8 +98,8 @@
                             </div>
                         </div>
                         <div class="card-content">
-                            <div class="name"><a href="">ให้คำปรึกษาด้านกฎหมาย</a></div>
-                            <p class="description">ที่ปรึกษาให้คำปรึกษาด้านกฎหมาย ร่างนิติกรรมสัญญา</p>
+                            <div class="name"><a href="">Giving legal advice</a></div>
+                            <p class="description">being lawful legal adviser of organization.</p>
                         </div>
                     </div>
                     <!-- ---------------------------------------- -->
@@ -113,9 +111,8 @@
                             </div>
                         </div>
                         <div class="card-content">
-                            <div class="name"><a href="">ขอวีซ่าและใบอนุญาตทำงาน</a></div>
-                            <p class="description">
-                                ให้บริการเกี่ยวกับการขอวีซ่าใบอนุญาตทำงานให้แก่ต่างด้าวและการขออาศัยในประเทศไทย</p>
+                            <div class="name"><a href="">Work Permit and Visa</a></div>
+                            <p class="description">Work Permit and Visa application.</p>
                         </div>
                     </div>
                     <!-- ---------------------------------------- -->
@@ -127,8 +124,8 @@
                             </div>
                         </div>
                         <div class="card-content">
-                            <div class="name"><a href="">ขอใบถิ่นที่อยู่ในประเทศ</a></div>
-                            <p class="description">Long-Term Residence (LTR) Visa, Smart Visa</p>
+                            <div class="name"><a href="">Residence Permit Application</a></div>
+                            <p class="description">Long-Term Residence (LTR) Visa, Smart Visa.</p>
                         </div>
                     </div>
                     <!-- ---------------------------------------- -->
@@ -140,9 +137,8 @@
                             </div>
                         </div>
                         <div class="card-content">
-                            <div class="name"><a href="">จดทะเบียนจัดตั้งกิจการ</a></div>
-                            <p class="description">บริษัท ห้างหุ้นส่วนนิติบุคคล/จดทะเบียนการเลิก/เปลี่ยนแปลง/แก้ไข
-                                เกี่ยวกับกิจการ</p>
+                            <div class="name"><a href="">BOI Promotion Certificate Application</a></div>
+                            <p class="description">Company and Partnership Registration.</p>
                         </div>
                     </div>
                     <!-- ---------------------------------------- -->
@@ -154,8 +150,8 @@
                             </div>
                         </div>
                         <div class="card-content">
-                            <div class="name"><a href="">ขอใบอนุญาตจากราชการ</a></div>
-                            <p class="description">ใบอนุญาตดำเนินกิจการธุรกิจต่างด้าว สำนักงานตัวแทน สำนักงานสาขา</p>
+                            <div class="name"><a href="">Government License</a></div>
+                            <p class="description">Foreign Business Operation Certificate, Representative Office and Regional Office.</p>
                         </div>
                     </div>
                     <!-- ---------------------------------------- -->
@@ -167,9 +163,8 @@
                             </div>
                         </div>
                         <div class="card-content">
-                            <div class="name"><a href="">ขอรับรองเอกสารสำคัญ</a></div>
-                            <p class="description">รับรองโนตารี / การขอคัดรับรองเอกสารสำคัญกับหน่วยงานราชการ
-                                กระทรวงการต่างประเทศ</p>
+                            <div class="name"><a href="">Notarization and Certification Services</a></div>
+                            <p class="description">Certification of important documents with government agencies ministry.</p>
                         </div>
                     </div>
                     <!-- ---------------------------------------- -->
@@ -181,8 +176,8 @@
                             </div>
                         </div>
                         <div class="card-content">
-                            <div class="name"><a href="">ขอจดทะเบียนการค้า</a></div>
-                            <p class="description">การขอจดทะเบียนเครื่องหมายการค้า</p>
+                            <div class="name"><a href="">Trademark Registration</a></div>
+                            <p class="description">Trademark Registration.</p>
                         </div>
                     </div>
                 </div>
@@ -194,21 +189,21 @@
         </div>
     </div>
 
-    <div class="service">ความเป็นมาของบริษัท</div>
+    <div class="service">Company background</div>
     <div class="square"></div>
 
     <!-- History company -->
     <div class="row profile">
         <div class="col-lg-6 col-md-6 col-sm-12 col-12 p-0">
-            <img src="assets/images/about-company.png" alt="about-company" class="img-company" >
+            <img src="assets/images/about-company.png" alt="about-company" class="img-company">
         </div>
         <div class="col-lg-6 col-md-6 col-sm-12 col-12 p-0">
             <div class="about-company">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                ได้จัดตั้งและจดทะเบียนเป็นบริษัทจำกัดตั้งแต่ปี พ.ศ.2534 จนถึงปัจจุบัน ได้ดำเนินงานมาแล้วกว่า 30 ปี
-                โดยมีวัตถุประสงค์เพื่อรับดำเนินการเกี่ยวกับงานทางด้านกฎหมายและงานด้านบริการที่เกี่ยวข้องต่าง ๆ
-                ด้วยประสบการณ์ที่มีมาอย่างยาวนานและการให้บริการที่มีประสิทธิภาพทำให้เราได้รับความเชื่อถือและไว้วางใจจากผู้รับบริการเป็นอย่างดีเรื่อยมาจนถึงปัจจุบัน
+                Merit Law & Counsellors Limited was established and registered as Company Limited since 1991.  
+                the objectives of providing professional services regarding and related services. Over than 30-year experience and 
+                by means of our professional performance and responsibility bring us still being trusted by all clients until now.
             </div>
-            <div class="name-company">บริษัท ที่ปรึกษากฎหมายเมริท จำกัด</div>
+            <div class="name-company">Merit Law & Counsellors Limited.</div>
         </div>
     </div>
 
@@ -216,7 +211,7 @@
         <i class="fi fi-rr-arrow-small-up p-0"></i>
     </button> -->
 
-    <?php include "components/footer.php"; ?>
+    <?php include "components/footer-en.php"; ?>
 
     <script src="assets/js/jquery.min.js"></script>
     <script src="assets/js/bootstrap.min.js"></script>
